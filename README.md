@@ -1,3 +1,5 @@
+###⚠️⚠️ THIS IS FOR EDUCATIONAL PURPOSES ONLY ⚠️⚠️###
+
 Overview
 This Python-based project simulates keylogger activity and demonstrates firewall defense mechanisms in a safe, controlled environment. It provides hands-on experience with red-team vs blue-team scenarios, including capturing keystrokes, monitoring network traffic, and detecting suspicious processes.
 
